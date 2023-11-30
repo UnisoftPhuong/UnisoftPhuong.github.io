@@ -1,1 +1,13 @@
-code
+applovin.com, 2182b543a860f2bcd7d882a5fe7052d5, DIRECT
+loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
+rubiconproject.com, 16356, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
+pubmatic.com, 158154, RESELLER, 5d62403b186f2ace
+pubmatic.com, 158862, RESELLER, 5d62403b186f2ace
+pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
+xandr.com, 13799, RESELLER
+media.net, 8CUD06Z68, RESELLER
+inmobi.com, 6a6fb6aa39374ee09be2057d019a3261, RESELLER
+cloud.unity.com, 18967773756053, RESELLER
+publisher.vungle.com, 6565bb46cebd4a0011dcba02, RESELLER
+apps.admob.com, pub-4219622969515932, RESELLER
