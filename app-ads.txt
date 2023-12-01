@@ -8,7 +8,7 @@ pubmatic.com, 159509, RESELLER, 5d62403b186f2ace
 xandr.com, 13799, RESELLER
 media.net, 8CUD06Z68, RESELLER
 152media.info, 152M324, RESELLER
-google.com, pub-4219622969515932, RESELLER
+google.com, pub-4219622969515932, RESELLER, f08c47fec0942fa0
 liftoff.io, 6565bb46cebd4a0011dcba02, RESELLER
 
 adcolony.com, 0a0f72cd66122f31, RESELLER, 1ad675c9de6b5176
@@ -37,13 +37,13 @@ appads.in, 107606, RESELLER
 
 appnexus.com, 10617, RESELLER, f5ab79cb980f11d1
 
-appnexus.com, 11826, RESELLER
+appnexus.com, 11826, RESELLER, f5ab79cb980f11d1
 
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 
 appnexus.com, 12976, RESELLER, f5ab79cb980f11d1
 
-appnexus.com, 13227, RESELLER
+appnexus.com, 13227, RESELLER, f5ab79cb980f11d1
 
 appnexus.com, 13293, RESELLER, f5ab79cb980f11d1
 
@@ -197,8 +197,6 @@ pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
 
 pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
 
-Pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
-
 pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
 
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
@@ -327,9 +325,9 @@ xandr.com, 7353, RESELLER, f5ab79cb980f11d1
 
 xandr.com, 8804, RESELLER, f5ab79cb980f11d1
 
-Xapads.com, 117219, RESELLER
+xapads.com, 117219, RESELLER
 
-Xapads.com, 155860, RESELLER
+xapads.com, 155860, RESELLER
 
 yandex.com, 40427798, RESELLER
 
