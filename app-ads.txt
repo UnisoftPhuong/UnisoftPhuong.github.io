@@ -33,12 +33,12 @@ advlion.com,3117,RESELLER
 algorix.co,54250,RESELLER
 aniview.com,603f65a2e291680ef30af9c7,RESELLER,78b21b97965ec3f8
 app-stock.com,343264,RESELLER
-appnexus.com,11664,RESELLER
-appnexus.com,11879,RESELLER
-appnexus.com,13293,RESELLER
+appnexus.com,11664,RESELLER, f5ab79cb980f11d1
+appnexus.com,11879,RESELLER, f5ab79cb980f11d1
+appnexus.com,13293,RESELLER, f5ab79cb980f11d1
 appnexus.com,1752,RESELLER,f5ab79cb980f11d1
-appnexus.com,4052,RESELLER
-appnexus.com,6849,RESELLER
+appnexus.com,4052,RESELLER, f5ab79cb980f11d1
+appnexus.com,6849,RESELLER, f5ab79cb980f11d1
 appnexus.com,7351,RESELLER,f5ab79cb980f11d1
 appnexus.com,9316,RESELLER,f5ab79cb980f11d1
 aralego.com,par-AA7B236BA32DD484C838E249362437B8,RESELLER
