@@ -773,4 +773,5 @@ rubiconproject.com, 19724, RESELLER
 xapads.com, 144307, RESELLER
 verve.com, 15290, RESELLER
 loopme.com, 11424, RESELLER
-
+gamob.com, pub-5401062443, DIRECT
+google.com, pub-5882656183054581, RESELLER, f08c47fec0942fa0
