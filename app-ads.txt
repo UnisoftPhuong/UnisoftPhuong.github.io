@@ -166,7 +166,7 @@ pubmatic.com,157654,RESELLER,5d62403b186f2ace
 pubmatic.com,157800,RESELLER,5d62403b186f2ace
 pubmatic.com,158060,RESELLER,5d62403b186f2ace
 pubmatic.com,158100,RESELLER,5d62403b186f2ace
-pubmatic.com,158154,RESELLER,5d62403b186f2ace
+
 pubmatic.com,158271,RESELLER,5d62403b186f2ace
 pubmatic.com,158408,RESELLER,5d62403b186f2ace
 pubmatic.com,159035,RESELLER,5d62403b186f2ace
@@ -275,7 +275,6 @@ xad.com,241,RESELLER,81cbf0a75a5e0e9a
 xandr.com,10128,RESELLER,f5ab79cb980f11d1
 xandr.com,12745,RESELLER,f5ab79cb980f11d1
 xandr.com,13238,RESELLER,f5ab79cb980f11d1
-xandr.com,13799,RESELLER
 yahoo.com,59627,RESELLER
 yandex.com,95746987,RESELLER
 yeahmobi.com,5135224,RESELLER
@@ -467,10 +466,6 @@ pubmatic.com, 162223, RESELLER, 5d62403b186f2ace
 
 pubmatic.com, 162239, RESELLER, 5d62403b186f2ace
 
-pubmatic.com, 162882, RESELLER, 5d62403b186f2ace
-
-pubmatic.com, 163319, RESELLER, 5d62403b186f2ace
-
 pubmatic.com, 163420, RESELLER, 5d62403b186f2ace
 
 pubnative.net, 1003601, RESELLER, d641df8625486a7b
@@ -587,7 +582,7 @@ xandr.com, 13167, RESELLER, f5ab79cb980f11d1
 
 xandr.com, 13297, RESELLER, f5ab79cb980f11d1
 
-xandr.com, 13799, RESELLER
+
 
 xandr.com, 14082, RESELLER
 
