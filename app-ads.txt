@@ -674,7 +674,7 @@ triplelift.com, 8446, RESELLER, 5d62403b186f2ace
 e-planning.net, 949b688810cb7439, RESELLER
 smartadserver.com, 4467, RESELLER
 indexexchange.com, 192806, RESELLER
-lkqd.net, 647, RESELLER, 50b1c356f2c5c8fc
+lkqd.net, 647, RESELLER
 onetag.com, 59d216e971852f2, RESELLER, 59c49fa9598a0117
 pangleglobal.com, 55191, RESELLER
 openx.com, 541031350, RESELLER
@@ -692,8 +692,8 @@ betweendigital.com, 44088, RESELLER, fafdf38b16bf6b2b
 sovrn.com, 273644, RESELLER
 mediasniper.ru, 19413546, DIRECT, fafdf38b16bf6b2b
 rubiconproject.com, 17328, RESELLER
-contextweb.com, 562827, RESELLER, 0bfd66d529a55807
-rhythmone.com, 3880497124, RESELLER, 89ff185a4c4e857c
+contextweb.com, 562827, RESELLER
+rhythmone.com, 3880497124, RESELLER
 smartyads.com, 100034, RESELLER, a670c89d4a324e47
 admanmedia.com, 1009, RESELLER
 adwmg.com, 19413546, RESELLER
