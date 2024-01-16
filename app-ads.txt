@@ -204,7 +204,6 @@ rubiconproject.com,17250,RESELLER,0bfd66d529a55807
 rubiconproject.com,17328,RESELLER,0bfd66d529a55807
 rubiconproject.com,17608,RESELLER,0bfd66d529a55807
 rubiconproject.com,18364,RESELLER,0bfd66d529a55807
-rubiconproject.com,20744,RESELLER,0bfd66d529a55807
 rubiconproject.com,23644,RESELLER,0bfd66d529a55807
 rubiconproject.com,23732,RESELLER,0bfd66d529a55807
 rubiconproject.com,23980,RESELLER,0bfd66d529a55807
@@ -518,8 +517,6 @@ rubiconproject.com, 20050, RESELLER, 0bfd66d529a55807
 
 rubiconproject.com, 20086, RESELLER, 0bfd66d529a55807
 
-rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
-
 rubiconproject.com, 21526, RESELLER, 0bfd66d529a55807
 
 rubiconproject.com, 23876, RESELLER, 0bfd66d529a55807
@@ -637,7 +634,6 @@ rhebus.works, 7597018658, RESELLER
 selectmedia.asia, 645b5a31e427dc0a87094fc4, RESELLER, e365c871a27c655d
 pubmatic.com, 163758, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
-rubiconproject.com, 20744, RESELLER, 0bfd66d529a55807
 openx.com, 540298543, RESELLER, 6a698e2ec38604c6
 contextweb.com, 562499, RESELLER, 89ff185a4c4e857c
 appnexus.com, 8178, RESELLER, f5ab79cb980f11d1
