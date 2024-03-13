@@ -129,7 +129,6 @@ algorix.co, 54190, RESELLER, 5b394c12fea27a1d
 algorix.co, 60097, RESELLER, 5b394c12fea27a1d
 conversantmedia.com, 40881, RESELLER, 03113cd04947736d
 axonix.com, 57716, RESELLER
-pubmatic.com, 156931, RESELLER, 5d62403b186f2ace
 pubmatic.com, 159035, RESELLER, 5d62403b186f2ace
 thebrave.io, 1234568, RESELLER, c25b2154543746ac
 outbrain.com, 00bba279fec6daa01a0cb6fdccb023f0d5, RESELLER
