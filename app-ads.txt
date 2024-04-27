@@ -1,5 +1,6 @@
 applovin.com, 2182b543a860f2bcd7d882a5fe7052d5, DIRECT
 algorix.co, 60532, RESELLER, 5b394c12fea27a1d
+google.com, pub-5912466338796082, DIRECT, f08c47fec0942fa0
 gamaigroup.com, 423056, RESELLER
 loopme.com, 11303, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 11424, RESELLER, 6c8d5f95897a5a3b
